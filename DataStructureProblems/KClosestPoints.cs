@@ -52,6 +52,8 @@ namespace DataStructureProblems
 }
 
 /* Explanation
+ * If we are dealing with top/maximum/minimum/Closest k elements among n elements, then we can use a heap.
+ * 
  * This code first defines a Point structure to represent a point in 2D plane, and then defines a function Distance 
  * that calculates the distance of a point from the origin.
 
